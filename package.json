@@ -1,8 +1,7 @@
 {
-  "name": "nursebot",
+  "name": "tsbot",
   "version": "1.0.0",
-  "description": "The Clinique atfal Nurse bot discord bot",
-  "main": "server.js",
+  "description": "discord bot with discordjs and typescript",
   "author": "Xenedium",
   "license": "MIT",
   "dependencies": {
