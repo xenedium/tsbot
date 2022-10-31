@@ -30,3 +30,9 @@ yarn build && yarn start
 # OR
 npm run build && npm run start
 ```
+
+
+## Notes
+
+Events and commands are loaded automatically using the fs, in order to add new event handler simply create a new file in the src/events directory and make sure the filename is the same as the event name for eg: ```messageCreate.ts```, ```ready.ts``` etc...
+The same goes for commands
